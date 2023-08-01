@@ -1,2 +1,2 @@
 # odin-recipes
-The main page of this project contains a list of recipes. The list of recipes includes links to various pages which include various recipes. Web pages have been created by me with HTML. The purpose of this project was to help me learn how to use HTML, Git, and GitHub.
+A list of recipes can be found on the project homepage. The list of recipes includes links to different pages with different recipes. Web pages have been created by using HTML. The purpose of this project was to assist in learning how to use HTML, Git, and GitHub.
