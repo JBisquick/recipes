@@ -1,0 +1,14 @@
+*  { 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color:hsl(60, 100%, 50%);
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    color: hsl(315, 100%, 55%)
+;
+}
