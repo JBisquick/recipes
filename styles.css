@@ -2,6 +2,12 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+h3,
+p,
+li {
+    color: hsl(315, 88%, 39%);
+}
+
 body {
     background-color:hsl(60, 100%, 50%);
 }
@@ -13,11 +19,11 @@ button {
 }
 
 h1 {
-    text-align: center;
     font-size: 48px;
     color: hsl(315, 100%, 55%);
 }
 
+h1,
 .center {
     text-align: center;
 }
@@ -31,3 +37,4 @@ h1 {
     width: auto;
     height: 500px;
 }
+
