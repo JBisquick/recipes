@@ -26,3 +26,8 @@ h1 {
     width: 350px;
     height: auto;
 }
+
+.img-recipe {
+    width: auto;
+    height: 500px;
+}
