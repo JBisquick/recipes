@@ -16,25 +16,27 @@ button {
     background-color: hsl(315, 100%, 55%);
     font-size: 24px;
     color: hsl(60, 100%, 50%);
+    display: block;
+    margin: 8px auto;
 }
 
 h1 {
     font-size: 48px;
     color: hsl(315, 100%, 55%);
-}
-
-h1,
-.center {
     text-align: center;
 }
 
 .title-img {
     width: 350px;
     height: auto;
+    display: block;
+    margin: auto;
 }
 
 .img-recipe {
     width: auto;
     height: 500px;
+    display: block;    
+    margin: auto;
 }
 
