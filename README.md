@@ -8,7 +8,7 @@ A list of recipes can be found on the project homepage. Each recipe links to a d
 
 **Tech Used:** HTML and CSS
 
-HTML was the initial platform for building the pages. Later, a little CSS was added to add color and change the positions of the images. 
+HTML was the initial platform for building the pages. Later on, a lttle a bit of CSS was added to add color and change the positions of the images. 
 
 ## Lessons Learned:
 
